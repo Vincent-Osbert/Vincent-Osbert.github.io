@@ -1,18 +1,19 @@
 :root {
-  --color-paper: oklch(17% 0.018 58);
-  --color-paper-2: oklch(20% 0.021 58);
-  --color-paper-3: oklch(24% 0.024 58);
-  --color-ink: oklch(93% 0.018 76);
-  --color-ink-2: oklch(84% 0.022 76);
-  --color-muted: oklch(70% 0.025 70);
-  --color-rule: oklch(34% 0.028 60);
-  --color-rule-2: oklch(42% 0.032 62);
-  --color-accent: oklch(76% 0.105 72);
-  --color-accent-ink: oklch(19% 0.024 58);
-  --color-focus: oklch(84% 0.13 92);
-  --color-danger: oklch(69% 0.145 30);
-  --color-success: oklch(72% 0.105 145);
-  --color-shadow: oklch(10% 0.01 58 / 0.45);
+  --color-paper: #F3EEE3;
+  --color-paper-2: #FBF8F2;
+  --color-paper-3: #E9E2D3;
+  --color-ink: #111111;
+  --color-ink-2: #2B2925;
+  --color-muted: #5E5A52;
+  --color-rule: #DCD4C4;
+  --color-rule-2: #C9BFAB;
+  --color-accent: #B8431A;
+  --color-accent-bright: #D9541E;
+  --color-accent-ink: #FFFFFF;
+  --color-focus: #B8431A;
+  --color-danger: #C2410C;
+  --color-success: #2F7D4F;
+  --color-shadow: rgb(17 17 17 / .08);
 
   --font-display: "Sora", "Trebuchet MS", sans-serif;
   --font-body: "IBM Plex Sans", "Segoe UI", sans-serif;
